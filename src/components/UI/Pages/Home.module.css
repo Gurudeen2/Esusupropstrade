@@ -1,0 +1,44 @@
+.header-section {
+  background-color: #f1f1f1;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  text-align: justify;
+}
+
+.row-section {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.button {
+  width: 85%;
+}
+
+@media (min-width: 320px) {
+  .button {
+    width: 100%;
+  }
+  .col-order-1 {
+    padding-top: 1rem;
+  }
+}
+
+.icon {
+  font-size: 30px;
+  text-align: center;
+}
+
+.link {
+  text-decoration: none;
+  color: #000;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+.span {
+  padding-top: 2rem;
+}
+
+/* style="font-size: 17px;line-height: 0px;" */

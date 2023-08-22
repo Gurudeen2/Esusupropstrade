@@ -1,0 +1,31 @@
+.reg-container {
+  background-color: #fff;
+  margin-top: -2rem;
+  padding: 3rem !important;
+  width: 50% !important;
+}
+button {
+  width: 20% !important;
+}
+
+.align-button {
+  text-align: right;
+}
+
+@media screen and (max-width: 600px) {
+  .reg-container {
+    width: 90% !important;
+  }
+  button {
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .reg-container {
+    width: 90% !important;
+  }
+  button {
+    width: 100% !important;
+  }
+}

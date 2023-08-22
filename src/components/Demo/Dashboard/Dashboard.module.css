@@ -1,0 +1,35 @@
+.icon-container {
+  display: table;
+  width: 100%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: none;
+  padding: 2rem;
+}
+
+.table-cell {
+  display: table-cell;
+  width: 50%;
+  text-align: center;
+}
+
+.spacing {
+  padding: 0.6rem;
+}
+
+
+.button-container {
+  text-align: center;
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  width: 180px;
+  margin-left: -90px;
+  font-size: 18px;
+  font-size: 1.8rem;
+  font-weight: 700;
+  border-radius: 40px;
+}
+.button {
+  border-radius: 2rem;
+  font-weight: bold;
+}

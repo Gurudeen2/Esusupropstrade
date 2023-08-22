@@ -1,0 +1,19 @@
+.reason {
+  width: 100%;
+  background-color: #e0dddde7;
+}
+
+.justify-content {
+  padding: 3rem;
+}
+
+.justify-content2 {
+  padding: 3rem;
+  padding-top: 7rem;
+}
+
+.round-img {
+  width: 90%;
+  height: auto;
+  border-radius: 40%;
+}

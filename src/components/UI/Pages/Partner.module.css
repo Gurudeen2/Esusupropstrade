@@ -1,0 +1,11 @@
+.partner-content {
+  background-color: antiquewhite;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 2rem;
+  text-align: center;
+}
+
+.partner-content h2 {
+  text-transform: uppercase;
+}

@@ -1,0 +1,12 @@
+.apicontent {
+  text-align: justify;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding-left: 3rem !important;
+  padding-right: 3rem !important;
+}
+
+.button {
+  background: linear-gradient(to right, #c12dd1, #6d8cf8);
+  margin-top: 1rem;
+}

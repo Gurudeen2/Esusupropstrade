@@ -1,0 +1,16 @@
+.sidebar {
+  background-color: #353434;
+  min-width: 12rem;
+  padding: 2rem;
+  min-height: 50rem;
+}
+
+.link {
+  color: #837e7e;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #fff;
+  font-size: 20px;
+}
